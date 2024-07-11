@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Aksh-portfolio/static/css/main.40423768.css",
+    "main.js": "/Aksh-portfolio/static/js/main.77b3fc89.js",
+    "static/js/453.a49aa161.chunk.js": "/Aksh-portfolio/static/js/453.a49aa161.chunk.js",
+    "static/media/profile.jpg": "/Aksh-portfolio/static/media/profile.82f8f1a585cd434efa05.jpg",
+    "index.html": "/Aksh-portfolio/index.html",
+    "main.40423768.css.map": "/Aksh-portfolio/static/css/main.40423768.css.map",
+    "main.77b3fc89.js.map": "/Aksh-portfolio/static/js/main.77b3fc89.js.map",
+    "453.a49aa161.chunk.js.map": "/Aksh-portfolio/static/js/453.a49aa161.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.40423768.css",
+    "static/js/main.77b3fc89.js"
+  ]
+}
